@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 382px;
+    
+}
+
+.youthTitle {
+    height: 382px;
+    width: 350px;
+    background-color: rgba(253, 215, 0, 1);
+}
+
+.youthTitle h1 {
+    margin: 0;
+    padding: 15px;
+}
+
+.newsContainer {
+    margin: 100px;
+    background-color: rgba(255, 251, 229, 1);
+    padding: 0;
+    height: 300px;
+}
+
+.containerTitle {
+    padding-top: 18px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.aboutYouth {
+    height: 600px;
+}
+
+.youth {
+    margin: 0 0 0 256px;
+    background-color: rgba(253, 215, 0, 1);
+    height: 600px;
+}
+
+.youth p {
+    margin: 146px 94px 0 238px;
+}
+
+
+.quest {
+    height: 800px;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.questContainer {
+    margin: 100px 200px 100px 0;
+    background-color: rgba(255, 251, 229, 1);
+    height: 800px;
+}
+
+.questTitle {
+    text-align: center;
+}
+
+.quest p {
+    text-align: center;
+}
+
+.questBox {
+    position: absolute;
+    top: 350px;
+    left: 80px;
+}
+
+.questBlock {
+    float: left;
+    height: 350px;
+    width: 270px;
+    border: 2px solid rgba(180, 83, 42, 1);
+    margin-right: 110px;
+    background-color: white;
+}
+
+.questNumber {
+    text-align: center;
+}
+
+.manager {
+    height: 550px;
+    background-color: rgba(253, 215, 0, 1);
+}
+
+footer {
+    height: 30px;
+}
+
+.footerYouth {
+    text-align: right;
+}
